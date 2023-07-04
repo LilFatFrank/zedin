@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import ImageSlider from "../imageslider";
 import DATA from "../data.json";
 import "./home.css";
