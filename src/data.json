@@ -1,0 +1,150 @@
+{
+  "PRODUCTS": [
+    {
+      "label": "Dusty Cargo",
+      "fabric": "Mill Dyed",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-1/product-1.jpg",
+        "/assets/items/item-1/product-2.jpg"
+      ]
+    },
+    {
+      "label": "Dusty Round Pocket",
+      "fabric": "Heavy Cotton, Knitted",
+      "sizes": "28-34, 30-36",
+      "images": [
+        "/assets/items/item-2/product-1.jpg",
+        "/assets/items/item-2/product-2.jpg",
+        "/assets/items/item-2/product-3.jpg"
+      ]
+    },
+    {
+      "label": "Dusty",
+      "fabric": "Heavy Mill Dyed, Round",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-3/product-1.jpg",
+        "/assets/items/item-3/product-2.jpg",
+        "/assets/items/item-3/product-3.jpg"
+      ]
+    },
+    {
+      "label": "Dusty",
+      "fabric": "Mill Dyed, Cotton, Knitted",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-4/product-1.jpg",
+        "/assets/items/item-4/product-2.jpg",
+        "/assets/items/item-4/product-3.jpg"
+      ]
+    },
+    {
+      "label": "Cross Pocket",
+      "fabric": "Reactive Dusty",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-5/product-1.jpg",
+        "/assets/items/item-5/product-2.jpg",
+        "/assets/items/item-5/product-3.jpg"
+      ]
+    },
+    {
+      "label": "Dusty Dark",
+      "fabric": "Mill Dyed",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-6/product-1.jpg",
+        "/assets/items/item-6/product-2.jpg",
+        "/assets/items/item-6/product-3.jpg"
+      ]
+    },
+    {
+      "label": "Black",
+      "fabric": "Heavy Knitted",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-7/product-1.jpg",
+        "/assets/items/item-7/product-2.jpg"
+      ]
+    },
+    {
+      "label": "Dusty",
+      "fabric": "Cotton, Knitty, Slub",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-8/product-1.jpg",
+        "/assets/items/item-8/product-2.jpg",
+        "/assets/items/item-8/product-3.jpg"
+      ]
+    },
+    {
+      "label": "Peanut Polo Fit",
+      "fabric": "Lycra",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-9/product-1.jpg",
+        "/assets/items/item-9/product-2.jpg",
+        "/assets/items/item-9/product-3.jpg"
+      ]
+    },
+    {
+      "label": "Dusty",
+      "fabric": "Reactive, Slub, Print",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-10/product-1.jpg",
+        "/assets/items/item-10/product-2.jpg",
+        "/assets/items/item-10/product-3.jpg",
+        "/assets/items/item-10/product-4.jpg"
+      ]
+    },
+    {
+      "label": "Duty Pocket Size",
+      "fabric": "Jogger Cargo",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-11/product-1.jpg",
+        "/assets/items/item-11/product-2.jpg",
+        "/assets/items/item-11/product-3.jpg",
+        "/assets/items/item-11/product-4.jpg"
+      ]
+    },
+    {
+      "label": "Denim",
+      "fabric": "Heavy Knitted Spray, PMT Style",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-12/product-1.jpeg",
+        "/assets/items/item-12/product-2.jpeg"
+      ]
+    },
+    {
+      "label": "Denim",
+      "fabric": "Dusty Spray, PMT Style",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-13/product-1.jpg",
+        "/assets/items/item-13/product-2.jpg"
+      ]
+    },
+    {
+      "label": "Denim (Comfort Fitting)",
+      "fabric": "Dusty",
+      "sizes": "30-40",
+      "images": [
+        "/assets/items/item-14/product-1.jpg",
+        "/assets/items/item-14/product-2.jpg"
+      ]
+    },
+    {
+      "label": "Denim",
+      "fabric": "White Knitted",
+      "sizes": "28-36",
+      "images": [
+        "/assets/items/item-15/product-1.jpg",
+        "/assets/items/item-15/product-2.jpg"
+      ]
+    }
+  ]
+}

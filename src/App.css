@@ -1,0 +1,38 @@
+.page-content {
+  padding: 30px;
+}
+.divider {
+  height: 1px;
+  background-color: #eee;
+}
+.columns {
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.column {
+  min-height: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 30%;
+  margin-bottom: 60px;
+  @media screen and (min-width: 320px) and (max-width: 1024px) {
+      max-width: 100%;
+  }
+}
+.column-slider {
+  background: rgba(0, 0, 0, 0.8);
+  margin-bottom: 40px;
+}
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.heading-1 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 44px;
+  font-weight: 400;
+}
