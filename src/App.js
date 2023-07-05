@@ -19,6 +19,16 @@ function App() {
         </BrowserRouter>
       </div>
       <Footer />
+      <a
+        href="https://wa.me/+918007359942"
+        style={{
+          backgroundImage: "url(/assets/images/whatsapp-logo.png)",
+          backgroundSize: "contain",
+        }}
+        className="wa-button"
+        target="_blank"
+        rel="noreferrer noopener"
+      />
     </>
   );
 }

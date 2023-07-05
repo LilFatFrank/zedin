@@ -7,7 +7,7 @@ const Home = () => {
     <div>
       <div
         className="img-holder"
-        style={{ backgroundImage: "url(/assets/images/home-bg.jpeg" }}
+        style={{ backgroundImage: "url(/assets/images/home-bg.jpeg)" }}
       >
         <div className="img-holder-content">
           <div style={{ textAlign: "center" }}>

@@ -19,7 +19,7 @@
   max-width: 30%;
   margin-bottom: 60px;
   @media screen and (min-width: 320px) and (max-width: 1024px) {
-      max-width: 100%;
+    max-width: 100%;
   }
 }
 .column-slider {
@@ -35,4 +35,19 @@
   margin-bottom: 15px;
   font-size: 44px;
   font-weight: 400;
+}
+.wa-button {
+  z-index: 999;
+  width: 60px;
+  height: 60px;
+  background-position: 50%;
+  border: 0 #000;
+  border-radius: 50%;
+  padding: 0;
+  position: fixed;
+  top: auto;
+  bottom: 3%;
+  left: auto;
+  right: 3%;
+  box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.2);
 }
