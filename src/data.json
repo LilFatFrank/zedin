@@ -100,7 +100,7 @@
       ]
     },
     {
-      "label": "Duty Pocket Size",
+      "label": "Dusty Pocket Size",
       "fabric": "Jogger Cargo",
       "sizes": "28-36",
       "images": [
@@ -115,8 +115,8 @@
       "fabric": "Heavy Knitted Spray, PMT Style",
       "sizes": "28-36",
       "images": [
-        "/assets/items/item-12/product-1.jpeg",
-        "/assets/items/item-12/product-2.jpeg"
+        "/assets/items/item-12/product-1.png",
+        "/assets/items/item-12/product-2.png"
       ]
     },
     {
